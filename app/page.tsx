@@ -71,7 +71,7 @@ export default function Home() {
             ========================================= */}
         <section className="hero-section">
           <Image
-            src="/warehouse-bg.jpg"
+            src="/hero-warehouse.png"
             alt="Pusat Logistik dan Pergudangan Modern PT Guyub Tunggal Songo"
             fill
             priority
@@ -124,7 +124,7 @@ export default function Home() {
               {/* Right Column: Hero Visual Card */}
               <div className="hero-card-preview">
                 <Image
-                  src="/fulfillment-card.jpg"
+                  src="/hero-warehouse.png"
                   alt="Operasional Pergudangan PT Guyub Tunggal Songo"
                   width={640}
                   height={420}
