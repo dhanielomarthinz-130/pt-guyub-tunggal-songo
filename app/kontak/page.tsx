@@ -188,8 +188,10 @@ export default function Kontak() {
       <footer className="site-footer">
         <div className="container">
           <div className="footer-bottom" style={{ borderTop: "none", paddingTop: 0 }}>
-            <span>© 2026 PT Guyub Tunggal Songo. All rights reserved.</span>
-            <span>Kawasan Industri Bekasi, Jawa Barat</span>
+            <span className="footer-copyright">© 2026 PT Guyub Tunggal Songo. All rights reserved.</span>
+            <div className="footer-legal-links">
+              <span className="footer-legal-link">Kawasan Industri Bekasi, Jawa Barat</span>
+            </div>
           </div>
         </div>
       </footer>

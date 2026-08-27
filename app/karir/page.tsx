@@ -252,8 +252,10 @@ export default function Karir() {
       <footer className="site-footer">
         <div className="container">
           <div className="footer-bottom" style={{ borderTop: "none", paddingTop: 0 }}>
-            <span>© 2026 PT Guyub Tunggal Songo. Tim Rekrutmen & SDM.</span>
-            <span>Kawasan Industri Bekasi, Jawa Barat</span>
+            <span className="footer-copyright">© 2026 PT Guyub Tunggal Songo. Tim Rekrutmen & SDM.</span>
+            <div className="footer-legal-links">
+              <span className="footer-legal-link">Kawasan Industri Bekasi, Jawa Barat</span>
+            </div>
           </div>
         </div>
       </footer>

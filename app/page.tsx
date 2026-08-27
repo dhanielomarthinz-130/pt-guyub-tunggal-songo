@@ -444,10 +444,13 @@ export default function Home() {
           </div>
 
           <div className="footer-bottom">
-            <span>© 2026 PT Guyub Tunggal Songo. Seluruh hak cipta dilindungi undang-undang.</span>
-            <div style={{ display: "flex", gap: 20 }}>
-              <span style={{ cursor: "pointer" }}>Kebijakan Privasi</span>
-              <span style={{ cursor: "pointer" }}>Syarat & Ketentuan</span>
+            <span className="footer-copyright">
+              © 2026 PT Guyub Tunggal Songo. Seluruh hak cipta dilindungi undang-undang.
+            </span>
+            <div className="footer-legal-links">
+              <span className="footer-legal-link">Kebijakan Privasi</span>
+              <span className="footer-legal-divider">•</span>
+              <span className="footer-legal-link">Syarat & Ketentuan</span>
             </div>
           </div>
         </div>
