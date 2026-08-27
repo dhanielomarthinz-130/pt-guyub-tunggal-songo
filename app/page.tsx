@@ -92,7 +92,8 @@ export default function Home() {
                   <span className="hero-title-highlight">Bisnis Modern</span>
                 </h1>
                 <p className="hero-copy">
-                  PT Guyub Tunggal Songo menyediakan solusi end-to-end warehousing, e-commerce fulfillment, dan distribusi terintegrasi teknologi untuk mengakselerasi pertumbuhan bisnis Anda.
+                  PT Guyub Tunggal Songo menyediakan solusi <span style={{ whiteSpace: "nowrap" }}>end-to-end</span> warehousing,{" "}
+                  <span style={{ whiteSpace: "nowrap" }}>e-commerce fulfillment</span>, dan distribusi terintegrasi teknologi untuk mengakselerasi pertumbuhan bisnis Anda.
                 </p>
 
                 <div className="hero-cta-group">
