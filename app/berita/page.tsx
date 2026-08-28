@@ -175,7 +175,7 @@ export default function Berita() {
           <div className="footer-bottom" style={{ borderTop: "none", paddingTop: 0 }}>
             <span className="footer-copyright">© 2026 PT Guyub Tunggal Songo. Tim Publikasi & Riset Supply Chain.</span>
             <div className="footer-legal-links">
-              <span className="footer-legal-link">Kawasan Industri Bekasi, Jawa Barat</span>
+              <span className="footer-legal-link">Jl. Rambutan No.52, Jatimekar, Jatiasih, Kota Bekasi 17422</span>
             </div>
           </div>
         </div>

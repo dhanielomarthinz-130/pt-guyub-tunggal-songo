@@ -354,7 +354,7 @@ export default function Home() {
                   Hubungi Tim Kami <ArrowRight size={17} />
                 </Link>
                 <a
-                  href="https://wa.me/6281234567890?text=Halo%20PT%20Guyub%20Tunggal%20Songo%2C%20saya%20ingin%20konsultasi%20pergudangan."
+                  href="https://wa.me/6285777163774?text=Halo%20PT%20Guyub%20Tunggal%20Songo%2C%20saya%20ingin%20konsultasi%20pergudangan."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn"
@@ -429,16 +429,20 @@ export default function Home() {
               <div className="footer-contact-item">
                 <MapPin size={18} style={{ flexShrink: 0, marginTop: 4, color: "#34d399" }} />
                 <span>
-                  Kawasan Industri Terpadu, Jl. Raya Industri No. 123, Bekasi, Jawa Barat 17530
+                  Jl Rambutan No.52 RT 005/011, Jatimekar, Jatiasih, Kota Bekasi 17422
                 </span>
               </div>
               <div className="footer-contact-item">
                 <PhoneCall size={18} style={{ flexShrink: 0, marginTop: 2, color: "#34d399" }} />
-                <span>+62 21 1234 5678 / +62 812-3456-7890</span>
+                <a href="tel:+6285777163774" style={{ color: "inherit", textDecoration: "none" }}>
+                  +62 8577-7163-774
+                </a>
               </div>
               <div className="footer-contact-item">
                 <Mail size={18} style={{ flexShrink: 0, marginTop: 2, color: "#34d399" }} />
-                <span>info@guyubtunggalsongo.co.id</span>
+                <a href="mailto:marketing@ptguyubtunggalsongo.vercel.app" style={{ color: "inherit", textDecoration: "none" }}>
+                  marketing@ptguyubtunggalsongo.vercel.app
+                </a>
               </div>
             </div>
           </div>

@@ -37,7 +37,7 @@ export default function Karir() {
       title: "Warehouse Operations Supervisor",
       department: "Operasional Gudang",
       type: "Penuh Waktu (Full-time)",
-      location: "Kawasan Industri, Cikarang - Bekasi",
+      location: "Jatiasih, Kota Bekasi",
       requirements: [
         "Pengalaman minimal 3 tahun di supervisi pergudangan atau fulfillment",
         "Menguasai sistem WMS, stock opname, dan alur inbound/outbound",
@@ -171,7 +171,7 @@ export default function Karir() {
                     </div>
 
                     <a
-                      href={`mailto:hr@guyubtunggalsongo.co.id?subject=Lamaran%20Pekerjaan%20-%20${encodeURIComponent(
+                      href={`mailto:marketing@ptguyubtunggalsongo.vercel.app?subject=Lamaran%20Pekerjaan%20-%20${encodeURIComponent(
                         job.title
                       )}`}
                       className="btn btn-primary btn-sm"
@@ -239,10 +239,10 @@ export default function Karir() {
               </p>
             </div>
             <a
-              href="mailto:hr@guyubtunggalsongo.co.id?subject=General%20Talent%20Pool%20Submission"
+              href="mailto:marketing@ptguyubtunggalsongo.vercel.app?subject=General%20Talent%20Pool%20Submission"
               className="btn btn-secondary btn-sm"
             >
-              <Mail size={16} /> Kirim CV ke HR
+              <Mail size={16} /> Kirim CV ke Email
             </a>
           </div>
         </div>
@@ -254,7 +254,7 @@ export default function Karir() {
           <div className="footer-bottom" style={{ borderTop: "none", paddingTop: 0 }}>
             <span className="footer-copyright">© 2026 PT Guyub Tunggal Songo. Tim Rekrutmen & SDM.</span>
             <div className="footer-legal-links">
-              <span className="footer-legal-link">Kawasan Industri Bekasi, Jawa Barat</span>
+              <span className="footer-legal-link">Jl. Rambutan No.52, Jatimekar, Jatiasih, Kota Bekasi 17422</span>
             </div>
           </div>
         </div>

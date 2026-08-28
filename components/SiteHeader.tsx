@@ -131,7 +131,7 @@ export default function SiteHeader() {
                 <Phone size={16} /> Hubungi Kami Sekarang
               </Link>
               <a
-                href="https://wa.me/6281234567890?text=Halo%20PT%20Guyub%20Tunggal%20Songo%2C%20saya%20ingin%20konsultasi%20layanan%20logistik."
+                href="https://wa.me/6285777163774?text=Halo%20PT%20Guyub%20Tunggal%20Songo%2C%20saya%20ingin%20konsultasi%20layanan%20logistik."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-secondary"
